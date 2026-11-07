@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bk_color">#FF1E1E32</color>
+    <color name="txt_color">#FFFFFFFF</color>
+    <color name="txt_color_d">#FF707070</color>
+    <color name="item_bg">#FF89DFFF</color>
+    <color name="blue_dark">#FF69BFEF</color>
+    <color name="seek_accent">#FF2EA5DE</color>
+    <color name="seek_track">#FFD9D9D9</color>
+    <color name="divider">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#FF3F51B5</item>
+        <item name="colorPrimaryDark">#FF303F9F</item>
+        <item name="colorAccent">#FFFF4081</item>
+        <item name="android:windowBackground">@color/bk_color</item>
+        <item name="android:textColorPrimary">@color/txt_color</item>
+    </style>
+
+    <!-- White dialogs with dark-navy text, as in the original (Theme.AppCompat.Light.Dialog.Alert.Self) -->
+    <style name="AppDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textColorPrimary">@color/bk_color</item>
+        <item name="android:windowBackground">@color/txt_color</item>
+        <item name="colorAccent">@color/bk_color</item>
+    </style>
+</resources>
